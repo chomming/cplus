@@ -2,7 +2,6 @@
 using namespace std;
 	
 int main() {	
-
 	int attNum[31] = {0, };
 	int n;
 	
